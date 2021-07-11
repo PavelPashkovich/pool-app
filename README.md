@@ -1,4 +1,4 @@
-# [Pool App](https://github.com/PavelPashkovich/pool-app/blob/master/index.html)
+# [Pool App](https://pavelpashkovich.github.io/pool-app/)
 
 ### Created by
 
