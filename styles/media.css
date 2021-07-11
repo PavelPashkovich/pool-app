@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .heading__title {
+        display: none;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+}
